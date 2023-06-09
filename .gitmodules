@@ -1,3 +1,6 @@
 [submodule "swift-gate-contracts"]
 	path = swift-gate-contracts
 	url = git@github.com:0x73696d616f/swift-gate-contracts.git
+[submodule "swift-gate-frontend"]
+	path = swift-gate-frontend
+	url = https://github.com/0x73696d616f/swift-gate-frontend
