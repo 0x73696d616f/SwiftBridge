@@ -1,6 +1,7 @@
 [submodule "swift-gate-contracts"]
 	path = swift-gate-contracts
 	url = git@github.com:0x73696d616f/swift-gate-contracts.git
+	branch = master
 [submodule "swift-gate-frontend"]
 	path = swift-gate-frontend
 	url = https://github.com/0x73696d616f/swift-gate-frontend
@@ -8,3 +9,4 @@
 [submodule "swift-gate-backend"]
 	path = swift-gate-backend
 	url = https://github.com/0x73696d616f/swift-gate-backend
+	branch = master
