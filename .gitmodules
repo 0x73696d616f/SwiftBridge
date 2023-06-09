@@ -4,3 +4,6 @@
 [submodule "swift-gate-frontend"]
 	path = swift-gate-frontend
 	url = https://github.com/0x73696d616f/swift-gate-frontend
+[submodule "swift-gate-backend"]
+	path = swift-gate-backend
+	url = https://github.com/0x73696d616f/swift-gate-backend
