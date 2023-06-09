@@ -14,7 +14,7 @@ Swift is composed of the following smart contracts:
 - ERC20Token: ...
 
 ## Frontend
-The frontend, developed in .js, gives user an easy platform to interact with protocol, with a Metamask implementation and easy presentation. 
+The frontend, developed in .js, gives the user an easy platform to interact with protocol, with a Metamask implementation and easy presentation. 
 
 ## Backend
 ...
