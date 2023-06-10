@@ -8,7 +8,7 @@ SwiftGate allows for instant verification and instant trustless bridging - this 
 Currently, SwiftGate is ERC-20 compatible, with contracts that interact with each token being deployed by a TokenFactory contract that uses OpenZeppelin's ERC1167 implementation to inexpensive clone the contracts needed to interact with a given token. 
 
 ## Front-end
-![image](https://github.com/0x73696d616f/SwiftGate/assets/57190987/65400018-5f4b-4121-aa04-8d918ff749c7)
+![image]([https://github.com/0x73696d616f/SwiftGate/assets/57190987/65400018-5f4b-4121-aa04-8d918ff749c7](https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/ebe01ded8e8a4424a195c0ea4654550c/projects/234dc88cd6f148758314867285d1f2d1/b521ae3f-925a-4c55-a6db-759dd9c702f7.png))
 
 ## Docs
 Docummentation for smart contracts can be checked [here](https://github.com/0x73696d616f/swift-gate-contracts/tree/master/docs/src/src) .
