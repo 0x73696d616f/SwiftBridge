@@ -24,23 +24,23 @@ Docummentation for smart contracts can be checked [here](https://github.com/0x73
 
 ### OPTIMISM
 
-0x2368B457E93DB89FB67f0dA1554af642F61fa0A8
+https://goerli-optimism.etherscan.io/address/0x2368B457E93DB89FB67f0dA1554af642F61fa0A8#code
 
 ### SCROLL
 
-0x030A74336C10c3214602e515f3fbc604D4451691
+https://blockscout.scroll.io/address/0x030A74336C10c3214602e515f3fbc604D4451691/contracts#address-tabs
 
 ### CHIADO
 
-0x0B49058317F8d67ba09587a4d17e8C04907fa0B2
+https://blockscout.com/gnosis/chiado/address/0x0B49058317F8d67ba09587a4d17e8C04907fa0B2/contracts#address-tabs
 
 ### MANTLE
 
-0xb33200abe32eB66C4ca6F5a4F92a8D8cBA47DBaD
+https://explorer.testnet.mantle.xyz/address/0xb33200abe32eB66C4ca6F5a4F92a8D8cBA47DBaD/contracts#address-tabs
 
 ### TAIKO
 
-0xc32cF0BF647259335a2151191CEDEDd1A22CaFd7
+https://explorer.test.taiko.xyz/address/0xc32cF0BF647259335a2151191CEDEDd1A22CaFd7/contracts#address-tabs
 
 
 
