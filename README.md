@@ -13,6 +13,37 @@ Currently, SwiftGate is ERC-20 compatible, with contracts that interact with eac
 ## Docs
 Docummentation for smart contracts can be checked [here](https://github.com/0x73696d616f/swift-gate-contracts/tree/master/docs/src/src) .
 
+
+# SwiftGate contracts
+
+## Swift Gate - Same for all chains
+
+0xB84f07612F4bfEc42E042b6CDD26df496b3d397f
+
+## Mintable Token For Testing
+
+### OPTIMISM
+
+0x2368B457E93DB89FB67f0dA1554af642F61fa0A8
+
+### SCROLL
+
+0x030A74336C10c3214602e515f3fbc604D4451691
+
+### CHIADO
+
+0x0B49058317F8d67ba09587a4d17e8C04907fa0B2
+
+### MANTLE
+
+0xb33200abe32eB66C4ca6F5a4F92a8D8cBA47DBaD
+
+### TAIKO
+
+WIP no funds yet, taking long to bridge
+
+
+
 ## Pitch Presentation
 [Google Slides link, ](https://docs.google.com/presentation/d/1uIPEWzrVDwyOGbBpcgWYfn_tckzZHfMAKi5bKL6fLuo/edit?usp=sharing)
 [PDF](https://github.com/0x73696d616f/SwiftGate/files/11712534/SwiftGate.pdf)
