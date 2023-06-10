@@ -9,3 +9,7 @@ Currently, SwiftGate is ERC-20 compatible, with contracts that interact with eac
 
 ## Docs
 Docummentation for smart contracts can be checked [here](https://github.com/0x73696d616f/swift-gate-contracts/tree/master/docs/src/src) .
+
+## Pitch Presentation
+[Google Slides link, ](https://docs.google.com/presentation/d/1uIPEWzrVDwyOGbBpcgWYfn_tckzZHfMAKi5bKL6fLuo/edit?usp=sharing)
+[PDF](https://github.com/0x73696d616f/SwiftGate/files/11712534/SwiftGate.pdf)
