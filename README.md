@@ -40,7 +40,7 @@ Docummentation for smart contracts can be checked [here](https://github.com/0x73
 
 ### TAIKO
 
-WIP no funds yet, taking long to bridge
+0xc32cF0BF647259335a2151191CEDEDd1A22CaFd7
 
 
 
