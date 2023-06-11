@@ -46,4 +46,4 @@ https://explorer.test.taiko.xyz/address/0xc32cF0BF647259335a2151191CEDEDd1A22CaF
 
 ## Pitch Presentation
 [Google Slides link, ](https://docs.google.com/presentation/d/1uIPEWzrVDwyOGbBpcgWYfn_tckzZHfMAKi5bKL6fLuo/edit?usp=sharing)
-[PDF](https://github.com/0x73696d616f/SwiftGate/files/11712534/SwiftGate.pdf)
+
