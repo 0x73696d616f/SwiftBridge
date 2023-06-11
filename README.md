@@ -18,11 +18,11 @@ Documentation for smart contracts can be checked [here](https://0x73696d616f.git
 
 # SwiftGate contracts
 
-## Swift Gate - Same for all chains
-
-0xB84f07612F4bfEc42E042b6CDD26df496b3d397f
+See [docs](https://0x73696d616f.github.io/swift-gate-contracts/index.html).
 
 ## Mintable Token For Testing
+
+These tokens can be bridged between chains easily and have a faucet function that can be called on the frontend.
 
 ### OPTIMISM
 
